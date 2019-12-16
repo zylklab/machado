@@ -1,4 +1,8 @@
 # Directories #
+.recommenders
+.recommenders/
+**/.recommenders
+**/.recommenders/**
 /build/
 /bin/
 **/bin/
